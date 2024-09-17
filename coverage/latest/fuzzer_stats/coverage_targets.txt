@@ -1,1 +1,4 @@
-fuzzer
+UseAfterScope_fuzzer
+StackBufferOverflow_fuzzer
+DoStuff_fuzzer
+GlobalBufferOverflow_fuzzer
